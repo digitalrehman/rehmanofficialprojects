@@ -10,6 +10,7 @@ import { SiExpress } from "react-icons/si";
 import { SiMongodb } from "react-icons/si";
 import { TbBrandNodejs } from "react-icons/tb";
 import { SiTypescript } from "react-icons/si";
+import { FaBootstrap } from "react-icons/fa6";
 const iconMap = {
   HTML: <IoLogoHtml5 className="flex-shrink-0 size-5" />,
   CSS: <IoLogoCss3 className="flex-shrink-0 size-5" />,
@@ -22,6 +23,7 @@ const iconMap = {
   Express: <SiExpress className="flex-shrink-0 size-5" />,
   Node: <TbBrandNodejs className="flex-shrink-0 size-5" />,
   Typescript: <SiTypescript className="flex-shrink-0 size-5" />,
+  Bootstrap: <FaBootstrap className="flex-shrink-0 size-5" />,
 };
 
 const TeachStack = ({ project }) => {
