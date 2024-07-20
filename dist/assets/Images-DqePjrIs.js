@@ -1,1 +1,0 @@
-import{j as r}from"./index-CJjUzoZa.js";const s=({project:e})=>r.jsx(r.Fragment,{children:r.jsx("img",{alt:"Product screenshot",src:e.imageUrl,width:2432,height:1642,className:"w-[48rem] h-[32rem] object-cover max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0"})});export{s as default};
