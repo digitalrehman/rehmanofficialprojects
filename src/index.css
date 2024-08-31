@@ -2,3 +2,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: rock;
+    src: url(./font/RockvilleSolid.otf);
+}
+
+@font-face {
+    font-family: now-regular;
+    src: url(./font/Now-Regular-BF6542f7138c477.otf);
+}
