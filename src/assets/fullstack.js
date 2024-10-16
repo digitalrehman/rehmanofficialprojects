@@ -99,7 +99,7 @@ let fullStackProject = [
   title: "Full Stack Authentication",
   description:
     "A fully secure authentication system built using the MERN stack. This application implements features such as user registration, login, and authentication with robust security practices. The system is designed for scalability and provides a seamless user experience across devices.",
-  techStack: ["MongoDB", "Express.js", "React", "Node.js"],
+  techStack: ["MongoDB", "Express", "React", "Node"],
   imageUrl:
     "https://res.cloudinary.com/daarlhxp1/image/upload/v1729103255/authentication_cq9xh2.png",
   link: "https://mern-stack-authentication-frontend.pages.dev/",
