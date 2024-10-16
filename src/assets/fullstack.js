@@ -7,7 +7,7 @@ let fullStackProject = [
     techStack: ["MongoDB", "Express", "React", "Node"],
     imageUrl:
       "https://res.cloudinary.com/daarlhxp1/image/upload/v1720412291/screencapture-blogs-posting-netlify-app-Login-2024-07-08-09_12_06_vmltjj.jpg",
-    link: "https://blogs-posting.netlify.app/Login",
+    link: "https://blogs-posting.netlify.app",
     github: "https://github.com/Digitalrehman/Blogs-App",
     features: [
       "Create, edit, and delete blog posts",
@@ -94,6 +94,30 @@ let fullStackProject = [
     learnings:
       "Enhanced my skills in using Firebase for backend services, React for building interactive UIs, and Tailwind for creating responsive and modern designs.",
     appFor: "Full-Stack Developer",
-  },
+  },{
+  id: 33,
+  title: "Full Stack Authentication",
+  description:
+    "A fully secure authentication system built using the MERN stack. This application implements features such as user registration, login, and authentication with robust security practices. The system is designed for scalability and provides a seamless user experience across devices.",
+  techStack: ["MongoDB", "Express.js", "React", "Node.js"],
+  imageUrl:
+    "https://res.cloudinary.com/daarlhxp1/image/upload/v1729103255/authentication_cq9xh2.png",
+  link: "https://mern-stack-authentication-frontend.pages.dev/",
+  github: "https://github.com/digitalrehman/mern-stack-authentication-frontend",
+  features: [
+    "User registration and login",
+    "JWT-based authentication",
+    "Password hashing and encryption",
+    "Responsive design",
+  ],
+  date: "October 2024",
+  deployed: "yes",
+  challenges:
+    "Ensuring strong security with JWT and bcrypt, handling token expiration and refresh flow.",
+  learnings:
+    "Strengthened my understanding of authentication flows, secure password storage using bcrypt, and token-based security with JWT.",
+  appFor: "Full-Stack Developer",
+}
+
 ];
 export { fullStackProject };
