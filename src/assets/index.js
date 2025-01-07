@@ -126,8 +126,7 @@ const projects = [
       "A secure and efficient random password generator built using HTML, CSS, and JavaScript. This application allows users to generate random passwords of specified lengths with options to include uppercase letters, lowercase letters, numbers, and special characters. It features a responsive design, ensuring it works seamlessly on both desktop and mobile devices.",
     techStack: ["HTML", "CSS", "JavaScript"],
     imageUrl:
-      "https://res.cloudinary.com/daarlhxp1/image/upload/v1719760175/screencapture-passwordgenreh-netlify-app-2024-06-30-19_16_14_irmimx.jpg",
-    link: "https://randompasswordgenerator.netlify.app/",
+      "https://res.cloudinary.com/daarlhxp1/image/upload/v1736240427/password_ux0vyi.png",
     github: "https://github.com/Digitalrehman/Password-Generator",
     features: [
       "Generates secure random passwords",
